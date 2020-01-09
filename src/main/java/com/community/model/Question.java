@@ -1,11 +1,11 @@
 package com.community.model;
 
-public class Quesstion {
+public class Question {
     private Integer id;
     private String title;
     private String description;
     private String tag;
-    private Long gtmCreate;
+    private Long gmtCreate;
     private Long gmtModified;
     private Integer creator;
     private Integer viewCount;
@@ -44,12 +44,12 @@ public class Quesstion {
         this.tag = tag;
     }
 
-    public Long getGtmCreate() {
-        return gtmCreate;
+    public Long getGmtCreate() {
+        return gmtCreate;
     }
 
-    public void setGtmCreate(Long gtmCreate) {
-        this.gtmCreate = gtmCreate;
+    public void setGmtCreate(Long gmtCreate) {
+        this.gmtCreate = gmtCreate;
     }
 
     public Long getGmtModified() {
