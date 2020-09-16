@@ -49,7 +49,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.13</version>
+            <version>8.0.16</version>
         </dependency>
 
 <!--        <dependency>-->
@@ -109,7 +109,7 @@
                     <dependency>
                         <groupId>mysql</groupId>
                         <artifactId>mysql-connector-java</artifactId>
-                        <version>8.0.13</version>
+                        <version>8.0.16</version>
                     </dependency>
                 </dependencies>
             </plugin>
@@ -129,7 +129,7 @@
                     <dependency>
                         <groupId>mysql</groupId>
                         <artifactId>mysql-connector-java</artifactId>
-                        <version>8.0.13</version>
+                        <version>8.0.16</version>
                     </dependency>
                 </dependencies>
             </plugin>
